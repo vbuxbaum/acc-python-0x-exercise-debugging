@@ -2,7 +2,6 @@
 minversion = "6.0"
 addopts = "-vv -s"
 testpaths = ["tests",]
-accept_xfail = true
 
 [tool.black]
 line-length = 79
