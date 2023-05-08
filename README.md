@@ -192,9 +192,9 @@ Em caso de dúvidas, confira o material na plataforma sobre [ESLint e Stylelint]
 
 # Requisitos
 
-## 1. `[atualizar]`
+## 1. Identifique e corrija os erros no arquivo `src/word_finder.py`
 
-<!-- Descrição do requisito, iniciado com verbo no imperativo (crie, filtre, faça, encontre) -->
+No arquivo `src/word_finder.py` há um código que deveria retornar uma lista de linhas de um arquivo que contém uma determinada palavra. Porém, há alguns erros no código que impedem que ele funcione corretamente. Identifique e corrija os erros no código.
 
 <details>
 
